@@ -1,6 +1,6 @@
 # Perturbation-Informed Deep Control Filter Generation for Active Noise Control in Hearables
 
-This repository is the official project page for the paper: **“Deep Control Filter Generation for Hearable Active Noise Control under Varying Acoustic Conditions”** The manuscript has been submitted to the **IEEE Signal Processing Letters**.
+This repository is the official project page for the paper: **“Perturbation-Informed Deep Control Filter Generation for Active Noise Control in Hearables”** The manuscript has been submitted to the **IEEE Signal Processing Letters**.
 
 ## Code Availability
 
